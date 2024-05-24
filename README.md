@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a repository for development and testing of Python libraries or tools which can be used in the Test Automation Framework of Automotive ECU Software and System Qualificaton Testing.
 
 <!--
 **SabariSuresh/SabariSuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
